@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Valentina
-- 👀 I’m interested in Infraestructure, Netwoking, Cloud, DevOps, SRE
-- 🌱 I’m currently learning Docker, Kubernets, Jenkins, CI/CD, Python and Front developing tools
-- 💞️ I’m looking to collaborate on Cloud projects
+- 👋 Hi, I’m @Valentina. I'm starting as a junior DevOps.
+- 👀 I’m interested in Infraestructure, Netwoking, Cloud, DevOps, SRE.
+- 🌱 I’m currently learning AWS, Docker, Kubernets, Jenkins, CI/CD, Python and Front developing tools.
+- 💞️ I’m looking to collaborate on Cloud projects.
 - 📫 How to reach me: www.linkedin.com/in/valentina-mvaleria
 
 <!---
