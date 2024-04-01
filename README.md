@@ -1,9 +1,12 @@
+About myself
+==================
 - 👋 Hi, I’m @Valentina. I work as a DevOps Engineer.
 - 👀 I’m interested in topics as Infraestructure, Netwoking, Cloud, DevOps, SRE.
 - 🌱 I’m currently learning Cloud Technologies, Docker, Kubernetes, CI/CD, Python and Front developing tools.
-- ⛅️ AWS Certified Solutions Architect – Associate https://www.credly.com/badges/c41733f4-0cfd-42a2-97a3-5661287cb713
-- 💞️ I’m looking to collaborate on Cloud projects.
-- 📫 How to reach me: www.linkedin.com/in/valentina-mvaleria
+- ⛅️ I'm a certified [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c41733f4-0cfd-42a2-97a3-5661287cb713)
+- Other credly [badges](https://www.credly.com/users/valentina-munoz-valeria.24193fba)
+- 💞️ I’m looking to collaborate on Cloud projects, especially to those involved in Infrastructure as Code.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/valentina-mvaleria)
 
 <!---
 vmunozvaleria/vmunozvaleria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
