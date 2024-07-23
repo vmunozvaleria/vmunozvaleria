@@ -1,14 +1,14 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/header-image.png)
+![Header Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/header-image.jpg)
 
 ## Hi there, I'm Valentina 👩🏽‍💻
 
-I’m interested in topics as **Infrastructure**, **Networking**, **Cloud Technologies**, **DevOps** and **Site Reliability Engineering**. I’m currently learning Cloud Technologies, Docker, Kubernetes, CI/CD, Python and Front developing tools and here you'll find a some of my projects, contributions, and explorations in these domains and learning paths.
+I’m interested in topics as **Infrastructure**, **Networking**, **Cloud Technologies**, **DevOps** and **Site Reliability Engineering**. I’m currently learning Cloud Technologies, Docker, Kubernetes, CI/CD, Python and Front developing tools. Here you'll find a some of my projects, contributions, and explorations in these domains and learning paths I've been working.
 
 ### 🛠️ Technologies & Tools
 
-These are some of the Technologies & Tools I'm familiar with.
+These are some of the Technologies & Tools I usually work with.
 
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -49,24 +49,21 @@ Here are a few projects I've been working on:
 
 - [Kapitortas](https://github.com/vmunozvaleria/kapitortas-front) - [Landing page to promote cake and pastry business.](https://kapitortas.cl/)
 - [Weather App](https://github.com/vmunozvaleria/weather_app_project_front) - [Project I worked on during the SheCodes workshops.](https://keen-booth-9dd012.netlify.app/)
-- [Learning Tools](https://github.com/v-teacher/INY1106) - Repo created by myself to Learn and to practice GitHub, Kubernetes.
+- [Learning Tools](https://github.com/v-teacher/INY1106) - Repo created by myself to Learn and to practice GitHub Administration, Kubernetes and some other things.
 
 ### 🌱 Currently Learning
 
 I'm currently diving deeper into:
 
-- Implementing Infrastructure as Code with Terraform or some other tools.
+- Implementing IaC focusing on building resilient and scalable cloud architectures.
 - Enhancing Kubernetes cluster management and orchestration.
-- Building resilient and scalable cloud architectures.
 - Taking some steps in learning the basics of ML.
 
 ### 💬 Let's Connect
 
 I'm always eager to collaborate on innovative projects and exchange ideas, especially to those involved in with the cloud and Infrastructure as Code.
 
-📫 Feel free to reach out!
-
-- **LinkedIn** [Profile](https://www.linkedin.com/in/valentina-mvaleria)
+📫 Feel free to me reach out through **LinkedIn** [Profile](https://www.linkedin.com/in/valentina-mvaleria)
 
 
 <!-- ![Footer Image](https://your-image-url.com/footer.jpg) -->
