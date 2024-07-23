@@ -1,4 +1,4 @@
-# 😎 Welcome to My Profile! 
+#  Welcome to My Profile! <img src="https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/plumbob.png" alt="plumbob" width="15">
 
 ![Header Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/header-image.png)
 
