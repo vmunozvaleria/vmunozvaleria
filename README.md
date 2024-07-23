@@ -1,10 +1,12 @@
 # DevOps | SRE | Solutions Architect
 
-![Header Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/header-image.jpg)
+![Header Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/header-image.png)
 
 ## Hi there 👋, I'm Valentina 👩🏽‍💻
 
-I’m interested in topics as **Infrastructure**, **Networking**, **Cloud Technologies**, **DevOps** and **Site Reliability Engineering**. I’m currently learning Cloud Technologies, Docker, Kubernetes, CI/CD, Python and Front developing tools. Here you'll find a some of my projects, contributions, explorations in these domains and learning paths I've been working on.
+I’m passionate about **Infrastructure**, **Networking**, **Cloud Technologies**, **DevOps** and **Site Reliability Engineering**. Currently, I’m diving deep into Cloud Technologies, Docker, Kubernetes, CI/CD, Python, and Front-End Development Tools.
+
+On this profile, you’ll find some of my projects, contributions, and explorations within these areas. You’ll also discover details about my credentials and learning paths as part of my pursuing to continuously enhance my skills and knowledge in these evolving domains and topics.
 
 ### 🛠️ Technologies & Tools
 
@@ -20,7 +22,7 @@ These are some of the Technologies & Tools I usually work with.
 
 ### 🏅 Badges & Certifications
 
-Here are some of my achievements and certifications:
+Here are some of my achievements and certifications.
 
 - [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/a4e366ea-b441-4849-8f57-8c002d442985)
   & [![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20%E2%80%93%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/c41733f4-0cfd-42a2-97a3-5661287cb713)
@@ -30,7 +32,7 @@ Here are some of my achievements and certifications:
 ### 🎖️ Other Badges & learning Paths
 
 - [![Credly](https://img.shields.io/badge/Credly-green)](https://www.credly.com/users/valentina-munoz-valeria.24193fba)
-[![Badge Name](https://img.shields.io/badge/Microsoft%20Learn-blue)](https://learn.microsoft.com/en-us/users/valentinapazmuozvaleria-0512/)
+[![Learn Microsoft](https://img.shields.io/badge/Microsoft%20Learn-blue)](https://learn.microsoft.com/en-us/users/valentinapazmuozvaleria-0512/)
 
 
 ### 🏆 Top Languages
@@ -48,7 +50,7 @@ Here are a few projects I've worked on:
 
 - [Kapitortas](https://github.com/vmunozvaleria/kapitortas-front) - [Landing page to promote cake and pastry business.](https://kapitortas.cl/)
 - [Weather App](https://github.com/vmunozvaleria/weather_app_project_front) - [Project I worked on during the SheCodes workshops.](https://keen-booth-9dd012.netlify.app/)
-- [Learning Tools](https://github.com/v-teacher/INY1106) - Repo created by myself to Learn and to practice GitHub Administration, Kubernetes and some other things.
+- [Learning Tools](https://github.com/v-teacher/INY1106) - [Repo created by myself to Learn and to practice GitHub Administration, Kubernetes and some other things.](https://github.com/v-teacher/INY1106)
 
 ### 🌱 Currently Learning
 
@@ -56,7 +58,7 @@ I'm currently diving deeper into:
 
 - Implementing IaC focusing on building resilient and scalable cloud architectures.
 - Enhancing Kubernetes cluster management and orchestration.
-- Taking some steps in learning the basics of ML.
+- Taking my first steps in learning the basics of ML.
 
 ### 💬 Let's Connect
 
@@ -65,9 +67,7 @@ I'm always eager to collaborate on innovative projects and exchange ideas, espec
 📫 Feel free to me reach out through my **LinkedIn** [Profile](https://www.linkedin.com/in/valentina-mvaleria)
 
 
-<!-- ![Footer Image](https://your-image-url.com/footer.jpg) -->
-
-
+![Footer Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/header-image.jpg)
 
 <!---
 vmunozvaleria/vmunozvaleria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
