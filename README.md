@@ -1,10 +1,10 @@
-# Welcome to My GitHub Profile! 👋
+# DevOps | SRE | Solutions Architect
 
 ![Header Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/header-image.jpg)
 
-## Hi there, I'm Valentina 👩🏽‍💻
+## Hi there 👋, I'm Valentina 👩🏽‍💻
 
-I’m interested in topics as **Infrastructure**, **Networking**, **Cloud Technologies**, **DevOps** and **Site Reliability Engineering**. I’m currently learning Cloud Technologies, Docker, Kubernetes, CI/CD, Python and Front developing tools. Here you'll find a some of my projects, contributions, and explorations in these domains and learning paths I've been working.
+I’m interested in topics as **Infrastructure**, **Networking**, **Cloud Technologies**, **DevOps** and **Site Reliability Engineering**. I’m currently learning Cloud Technologies, Docker, Kubernetes, CI/CD, Python and Front developing tools. Here you'll find a some of my projects, contributions, explorations in these domains and learning paths I've been working on.
 
 ### 🛠️ Technologies & Tools
 
@@ -29,7 +29,6 @@ Here are some of my achievements and certifications:
 
 ### 🎖️ Other Badges & learning Paths
 
-
 - [![Credly](https://img.shields.io/badge/Credly-green)](https://www.credly.com/users/valentina-munoz-valeria.24193fba)
 [![Badge Name](https://img.shields.io/badge/Microsoft%20Learn-blue)](https://learn.microsoft.com/en-us/users/valentinapazmuozvaleria-0512/)
 
@@ -45,7 +44,7 @@ Here are some of my achievements and certifications:
 
 ### ✨ Featured Projects
 
-Here are a few projects I've been working on:
+Here are a few projects I've worked on:
 
 - [Kapitortas](https://github.com/vmunozvaleria/kapitortas-front) - [Landing page to promote cake and pastry business.](https://kapitortas.cl/)
 - [Weather App](https://github.com/vmunozvaleria/weather_app_project_front) - [Project I worked on during the SheCodes workshops.](https://keen-booth-9dd012.netlify.app/)
@@ -61,9 +60,9 @@ I'm currently diving deeper into:
 
 ### 💬 Let's Connect
 
-I'm always eager to collaborate on innovative projects and exchange ideas, especially to those involved in with the cloud and Infrastructure as Code.
+I'm always eager to collaborate on innovative projects and exchange ideas, especially to those involved in with the cloud, Infrastructure as Code and Serverless tools.
 
-📫 Feel free to me reach out through **LinkedIn** [Profile](https://www.linkedin.com/in/valentina-mvaleria)
+📫 Feel free to me reach out through my **LinkedIn** [Profile](https://www.linkedin.com/in/valentina-mvaleria)
 
 
 <!-- ![Footer Image](https://your-image-url.com/footer.jpg) -->
