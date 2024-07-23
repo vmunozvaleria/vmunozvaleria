@@ -1,8 +1,10 @@
-# DevOps | SRE | Solutions Architect
+# 😎 Welcome to My Profile! 
 
 ![Header Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/header-image.png)
 
-## Hi there 👋, I'm Valentina 👩🏽‍💻
+## About me 👩🏽‍💻
+
+#### 👋 Hi there, I'm Valentina 🏳️‍🌈
 
 I’m passionate about **Infrastructure**, **Networking**, **Cloud Technologies**, **DevOps** and **Site Reliability Engineering**. Currently, I’m diving deep into Cloud Technologies, Docker, Kubernetes, CI/CD, Python, and Front-End Development Tools.
 
@@ -48,9 +50,9 @@ Here are some of my achievements and certifications.
 
 Here are a few projects I've worked on:
 
-- [Kapitortas](https://github.com/vmunozvaleria/kapitortas-front) - [Landing page to promote cake and pastry business.](https://kapitortas.cl/)
-- [Weather App](https://github.com/vmunozvaleria/weather_app_project_front) - [Project I worked on during the SheCodes workshops.](https://keen-booth-9dd012.netlify.app/)
-- [Learning Tools](https://github.com/v-teacher/INY1106) - [Repo created by myself to Learn and to practice GitHub Administration, Kubernetes and some other things.](https://github.com/v-teacher/INY1106)
+- [Kapitortas 🍰](https://github.com/vmunozvaleria/kapitortas-front) - [Landing page to promote cake and pastry business.](https://kapitortas.cl/)
+- [Weather App 🌦️](https://github.com/vmunozvaleria/weather_app_project_front) - [Project I worked on during the SheCodes workshops.](https://keen-booth-9dd012.netlify.app/)
+- [Learning Tools 🔧](https://github.com/v-teacher/INY1106) - [Repo created by myself to Learn and to practice GitHub Administration, Kubernetes and some other things.](https://github.com/v-teacher/INY1106)
 
 ### 🌱 Currently Learning
 
@@ -67,7 +69,7 @@ I'm always eager to collaborate on innovative projects and exchange ideas, espec
 📫 Feel free to me reach out through my **LinkedIn** [Profile](https://www.linkedin.com/in/valentina-mvaleria)
 
 
-![Footer Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/header-image.jpg)
+![Footer Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/footer-image.jpg)
 
 <!---
 vmunozvaleria/vmunozvaleria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
