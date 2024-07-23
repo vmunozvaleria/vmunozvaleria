@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](https://your-image-url.com/header.jpg)
+![Header Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/header-image.png)
 
 ## Hi there, I'm Valentina 👩🏽‍💻
 
@@ -69,7 +69,9 @@ I'm always eager to collaborate on innovative projects and exchange ideas, espec
 - **LinkedIn** [Profile](https://www.linkedin.com/in/valentina-mvaleria)
 
 
-![Footer Image](https://your-image-url.com/footer.jpg)
+<!-- ![Footer Image](https://your-image-url.com/footer.jpg) -->
+
+
 
 <!---
 vmunozvaleria/vmunozvaleria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
