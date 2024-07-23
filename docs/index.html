@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page with Header and Footer Images</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    header, footer {
+      width: 100%;
+      text-align: center;
+    }
+    header img, footer img {
+      width: 100%;
+      max-height: 200px; /* Adjust as necessary */
+      object-fit: cover;
+    }
+    main {
+      flex: 1;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="img/header-image.jpg" alt="Header Image">
+  </header>
+  <main>
+    <h1>Welcome to the Website</h1>
+    <p>This is the main content area.</p>
+  </main>
+  <footer>
+    <img src="img/footer-image.jpg" alt="Footer Image">
+  </footer>
+</body>
+</html>
