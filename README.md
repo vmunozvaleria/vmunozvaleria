@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/vmv-kercloud/vmv-kercloud/main/docs/img/plumbob.png" alt="plumbob" width="15">  Welcome to My Profile!
+# <img src="https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/plumbob.png" alt="plumbob" width="15">  Welcome to My Profile!
 
-![Header Image](https://raw.githubusercontent.com/vmv-kercloud/vmv-kercloud/main/docs/img/header-image.png)
+![Header Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/header-image.png)
 
 ## About me 👩🏽‍💻
 
@@ -39,19 +39,19 @@ Here are some of my achievements and certifications.
 
 ### 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vmv-kercloud&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vmunozvaleria&layout=compact&hide_border=true)
 
 ### 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmv-kercloud&show_icons=true&hide_border=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmunozvaleria&show_icons=true&hide_border=true)
 
 
 ### ✨ Featured Projects
 
 Here are a few projects I've worked on:
 
-- [Kapitortas 🍰](https://github.com/vmv-kercloud/kapitortas-front) - [Landing page to promote cake and pastry business.](https://kapitortas.cl/)
-- [Weather App 🌦️](https://github.com/vmv-kercloud/weather_app_project_front) - [Project I worked on during the SheCodes workshops.](https://keen-booth-9dd012.netlify.app/)
+- [Kapitortas 🍰](https://github.com/vmunozvaleria/kapitortas-front) - [Landing page to promote cake and pastry business.](https://kapitortas.cl/)
+- [Weather App 🌦️](https://github.com/vmunozvaleria/weather_app_project_front) - [Project I worked on during the SheCodes workshops.](https://keen-booth-9dd012.netlify.app/)
 - [Learning Tools 🔧](https://github.com/v-teacher/INY1106) - [Repo created by myself to Learn and to practice GitHub Administration, Kubernetes and some other things.](https://github.com/v-teacher/INY1106)
 
 ### 🌱 Currently Learning
@@ -69,10 +69,10 @@ I'm always eager to collaborate on innovative projects and exchange ideas, espec
 📫 Feel free to me reach out through my **LinkedIn** [Profile](https://www.linkedin.com/in/valentina-mvaleria)
 
 
-![Footer Image](https://raw.githubusercontent.com/vmv-kercloud/vmv-kercloud/main/docs/img/footer-image.jpg)
+![Footer Image](https://raw.githubusercontent.com/vmunozvaleria/vmunozvaleria/main/docs/img/footer-image.jpg)
 
 <!---
-vmv-kercloud/vmv-kercloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vmunozvaleria/vmunozvaleria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 Google profile:
