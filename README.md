@@ -26,9 +26,9 @@ These are some of the Technologies & Tools I usually work with.
 
 Here are some of my achievements and certifications.
 
-- [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/670b8c3f-91bd-4252-824b-3981f03d552c)
+- [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/670b8c3f-91bd-4252-824b-3981f03d552c)
   & [![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20%E2%80%93%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/c41733f4-0cfd-42a2-97a3-5661287cb713)
-- [![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-181717?style=flat-square&logo=github&logoColor=white)](https://www.credly.com/badges/3fae67c9-e916-43bf-a08b-37a2935e7377)
+- [![GitHub Administration](https://img.shields.io/badge/GitHub%20Administration-181717?style=flat-square&logo=github&logoColor=white)](https://www.credly.com/badges/c066949b-5683-4070-9331-157008ac427b)
 - [![AWS Partner: Technical Accredited](https://img.shields.io/badge/AWS%20Partner%3A%20Technical%20Accredited-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/1bfd27fb-bfc2-4aec-9beb-f6c7083396fe)
 
 ### 🎖️ Other Badges & learning Paths
